@@ -1,11 +1,16 @@
 # EXP.NO.1-EXPERIMENTAL-VERIFICATION-OF-VARIOUS-TYPES-OF-SAMPLING-TECHNIQUES
+
+
 ## AIM
  1.Experimental Verification Of Signal Sampling Using Various Types Such as 
     i) Natural Sampling
     ii) Flat Top Sampling
 
+
 ## APPARATUS REQUIRED
- Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)   
+ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
+
+ 
 ## PROCEDURE
 ### Natural Sampling
 1. Refer to the block diagram and carry out the following connections and switch setting.
@@ -31,13 +36,23 @@ connecting chords provided.
 Connect the OUT post of the flat top sampling block to the input IN 1 of the second order low
 pass Butterworth filter and take necessary observation as mentioned below. 
 7. Repeat the procedure for the 2khz, sine wave signal as input
+
+8. 
 ## CIRCUIT DIAGRAM
 ![image](https://github.com/user-attachments/assets/7e2919ef-428b-4566-89bd-222e9826afec)
+
 ## MODEL GRAPH
 ![image](https://github.com/user-attachments/assets/65dc4597-8c81-4adf-8837-5a2d111d065f)
+
+
 ## TABLE
 ![scanned image types of sampling1](https://github.com/user-attachments/assets/5593d1cc-9080-4a28-ba48-002c6eea92d9)
+
 ## OUTPUT GRAPHS
 ![scanned image types of sampling](https://github.com/user-attachments/assets/481dd71e-69b0-49d6-85d2-1e028ae22d97)
+
+
 ## RESULT 
 Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques was verified successfully.
+
+
