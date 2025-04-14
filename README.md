@@ -41,7 +41,8 @@ pass Butterworth filter and take necessary observation as mentioned below.
 ![image](https://github.com/user-attachments/assets/65dc4597-8c81-4adf-8837-5a2d111d065f)
 
 ## TABLE
-![image](https://github.com/user-attachments/assets/da22f60d-ad9e-4db9-9bd9-f2e56b67ecb5)
+![scanned image types of sampling1](https://github.com/user-attachments/assets/5593d1cc-9080-4a28-ba48-002c6eea92d9)
+
 
 ## OUTPUT GRAPHS
 ![scanned image types of sampling](https://github.com/user-attachments/assets/481dd71e-69b0-49d6-85d2-1e028ae22d97)
