@@ -47,8 +47,11 @@ pass Butterworth filter and take necessary observation as mentioned below.
 ![scanned image types of sampling1](https://github.com/user-attachments/assets/5593d1cc-9080-4a28-ba48-002c6eea92d9)
 
 
-## OUTPUT GRAPHS
 
+
+## OUTPUT GRAPHS
 ![scanned image types of sampling](https://github.com/user-attachments/assets/481dd71e-69b0-49d6-85d2-1e028ae22d97)
+
+
 ## RESULT 
 Thus the sapmpling and reconstruction of the given input signal is done using different types of sampling techniques was verified successfully.
